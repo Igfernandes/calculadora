@@ -7,7 +7,7 @@
 ## Apresentação:
 <img src="./screenshot.jpg" alt="screenshot">
 
-- Link do Vídeo testado a aplicação
+- Link do Vídeo testado a aplicação: https://youtu.be/GxcnU4Fx0TY
 
 ## 🔗 Grade de conteúdos:
 
